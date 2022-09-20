@@ -15,7 +15,7 @@ body {
     box-shadow: 5px 5px 15px 1px rgba(0, 0, 0, 0.055);
 }
 
-.barcode {
+.qr-code {
     width: 90%;
     margin: 0 auto;
     border-radius: 3%;
