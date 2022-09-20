@@ -5,7 +5,7 @@ body {
 
 .container {
     height: 500px;
-    width: 320px;
+    max-width: 320px;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-flow: column wrap;
@@ -16,7 +16,7 @@ body {
 }
 
 .qr-code {
-    width: 90%;
+    max-width: 90%;
     margin: 0 auto;
     border-radius: 3%;
     margin-top: 16px;
