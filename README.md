@@ -16,10 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-
+First challenge of frontendmentor.io - creating a QR code card.
 ### Screenshot
 
-[Screenshot of the challenge](Design/screenshot.jpg)
+![Screenshot of the challenge](Design/screenshot.jpg)
 
 ### Links
 
